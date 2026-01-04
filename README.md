@@ -30,6 +30,9 @@ pip install paramiko
 
 ## Cara Penggunaan
 Masuk ke folder python lalu jalankan perintah berikut:
+
+pip install paramiko
+cd ssh_bruteforce/python
 python ssh_bruteforce.py 134.199.164.95 2024 ../users.txt ../passwords.txt
 
 ## Catatan Keamanan
